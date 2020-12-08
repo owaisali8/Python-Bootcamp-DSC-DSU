@@ -5,7 +5,6 @@ def average(x):
 user_records = int(input("How many student records do you want to save: "))
 student_list = {}
 student_marks = []
-total = 0
 for i in range(user_records):
     roll_number = input("Enter roll number:")
     name = input("Enter name: ")
