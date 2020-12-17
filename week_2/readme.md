@@ -15,6 +15,7 @@ Extracts Number of likes from the Facebook page included in the csv file, then r
 ## Output 3:
 
 Fetches school data from a website and outputs it on a csv file, with the help of website API the program is able to access this info.
+
 ![out3](https://github.com/owaisali8/Python-Bootcamp-DSC-DSU/blob/main/week_2/IMG/3.PNG)
 
 
